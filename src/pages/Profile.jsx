@@ -58,7 +58,7 @@ const Profile = () => {
             <div className="h-full w-1/2 bg-gradient-to-r from-red-500 to-orange-400"></div>
             <img
               width={32}
-              src="src/assets/dog-food.png"
+              src="/dog-food.png"
               alt="hello"
               className="absolute right-[3%] bottom-[2%]"
             />
