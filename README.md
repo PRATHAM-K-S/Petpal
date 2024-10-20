@@ -1,5 +1,6 @@
 > [!NOTE]  
 > The Website is under progress and not production ready!!!
+> Best Experience on Mobile Only.
 
 # Petpal: Your Virtual Pet Companion
 
