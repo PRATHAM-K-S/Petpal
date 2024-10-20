@@ -21,7 +21,7 @@ const Home = () => {
           <div className="h-full w-1/2 bg-gradient-to-r from-red-500 to-orange-400"></div>
           <img
             width={32}
-            src="src/assets/dog-food.png"
+            src="/dog-food.png"
             alt="hello"
             className="absolute right-[3%] bottom-[2%]"
           />
@@ -32,7 +32,7 @@ const Home = () => {
         type="button"
         className="bg-gradient-to-r from-purple-500 via-purple-600 to-purple-700 hover:bg-gradient-to-br rounded-lg text-sm px-6 py-2.5 text-center font-semibold text-white dynapuff me-2 flex items-center gap-2 mb-10"
       >
-        Feed Me <img src="src/assets/pet-food.png" width={16} alt="" />
+        Feed Me <img src="/pet-food.png" width={16} alt="" />
       </button>
       <a
         href="/message"
